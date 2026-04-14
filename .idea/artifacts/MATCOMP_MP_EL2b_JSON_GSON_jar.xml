@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MATCOMP-MP-EL2b-JSON-GSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MATCOMP_MP_EL2b_JSON_GSON_jar</output-path>
+    <root id="archive" name="MATCOMP-MP-EL2b-JSON-GSON.jar">
+      <element id="module-output" name="MATCOMP-MP-EL2b-JSON-GSON" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
