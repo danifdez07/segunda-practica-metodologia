@@ -1,3 +1,5 @@
+package BloqueB;
+
 public class persona {
     private String nombre = "John Doe";
     private int edad = 18;

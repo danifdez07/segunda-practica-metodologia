@@ -1,4 +1,4 @@
-package EjercicioAlumno.java;
+package BloqueB.java;
 
 public class Alumno {
     private String nombre;
